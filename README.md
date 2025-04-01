@@ -1,4 +1,4 @@
-# Knights and Knaves Puzzle Solver (Propositional Logic AI Solver)
+# Knights (True) and Knaves (False) Puzzle Solver (Propositional Logic AI Solver)
 
 ## Overview
 This project implements a logic-based AI solver for "Knights and Knaves" puzzles, a type of logical puzzle introduced by Raymond Smullyan. In these puzzles, each character is either a knight (who always tells the truth) or a knave (who always lies). Given a set of statements made by the characters, the goal is to determine their identities using propositional logic and model checking.
